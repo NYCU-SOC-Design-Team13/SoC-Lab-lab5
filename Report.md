@@ -25,7 +25,7 @@
   - [Github link](#github-link)
 
 ## Lab 5 Spec
-* https://github.com/bol-edu/caravel-soc_fpga-lab/tree/main/labi
+* [https://github.com/bol-edu/caravel-soc_fpga-lab/tree/main/labi](https://github.com/bol-edu/caravel-soc_fpga-lab/tree/main/labi)
     > ![image](https://hackmd.io/_uploads/rkYBq3yST.png)
 
 ## Practical Step
@@ -45,10 +45,20 @@
         - `run_vivado_gcd.sh`
             > ![截圖 2023-11-26 凌晨1.36.11](https://hackmd.io/_uploads/B1c9xnySp.png)
 
-## Block diagram
+## Block Diagram
 ![image](https://hackmd.io/_uploads/HJoBdg6Na.png)
 
-## FPGA utilization
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+## FPGA Utilization
 ### run_vivado
 > ![image](https://hackmd.io/_uploads/SyGE9eTV6.png)
 > ![image](https://hackmd.io/_uploads/ry5Pcg6ET.png)
@@ -60,6 +70,13 @@
     > ![截圖 2023-11-26 凌晨2.22.19](https://hackmd.io/_uploads/H15Do2krT.png)
 - Report Cell Usage
     > <img src="https://hackmd.io/_uploads/rkZ2921Hp.png" alt="" style="width: 60%;"/>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### run_vivado_gcd
 > ![截圖 2023-11-26 凌晨2.39.17](https://hackmd.io/_uploads/Hk2v1T1BT.png)
@@ -73,6 +90,14 @@
     > ![image](https://hackmd.io/_uploads/Hycg2jyr6.png)
 - Report Cell Usage
     > <img src="https://hackmd.io/_uploads/ry-uyn1S6.png" alt="" style="width: 60%;"/>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 ## Explain the function of IP in this design
 
@@ -110,12 +135,42 @@
     > ![image](https://hackmd.io/_uploads/SJVACgpNa.png)
     >
     > ![image](https://hackmd.io/_uploads/S1ngpl6VT.png)
-<!-- > ![image](https://hackmd.io/_uploads/S1PkplaE6.png) -->
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 * **counter_la.hex**
     * `mprj_io` 的 `0x1c` 腳位輸出值為 `0xab5153d1`
     > ![image](https://hackmd.io/_uploads/SJ0J1ZpE6.png)
     > ![image](https://hackmd.io/_uploads/B1kY6l6N6.png)
-<!-- > ![image](https://hackmd.io/_uploads/SyVOTeT4p.png) -->
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 * **gcd_la.hex**
     * `mprj_io` 的 `0x1c` 腳位輸出值為 `0xab510041`
     > ![image](https://hackmd.io/_uploads/HJZb1Z64a.png)
@@ -123,6 +178,22 @@
 <!--     > ![image](https://hackmd.io/_uploads/rkby0eTNp.png) -->
 <!-- > ![image](https://hackmd.io/_uploads/rJrRaeaNT.png) -->
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Study caravel_fpga.ipynb, and be familiar with caravel SoC control flow
 
@@ -138,7 +209,7 @@
 
 
 ## Github link
-* https://github.com/Sheng08/SoC-Lab-Lab5
+* [https://github.com/Sheng08/SoC-Lab-lab5](https://github.com/Sheng08/SoC-Lab-lab5)
 
 ---
 
